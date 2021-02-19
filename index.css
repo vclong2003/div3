@@ -1,0 +1,20 @@
+#body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    flex-direction: column;
+}
+#ketQua {
+    padding: 5%;
+    color: white;
+    font-size: 1000%;
+}
+#inputBar {
+    width: 16%;
+    border: none;
+    outline: none;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    border-radius: 2%;
+}
